@@ -1,0 +1,7 @@
+buildHeap이 O(n)이라는 이야기...
+수학자들은 천재입니다!
+
+https://en.wikipedia.org/wiki/Heapsort
+https://en.wikipedia.org/wiki/Binary_heap#Building_a_heap
+https://en.wikipedia.org/wiki/Convergent_series
+https://www.quora.com/How-do-you-evaluate-the-sum-of-n-2-n-from-n-1-to-infinity
